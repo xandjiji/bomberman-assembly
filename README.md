@@ -2,7 +2,9 @@
 
 A very prototype bomberman-style maze game. This game was a project for learning assembly languages.
 
-![game](https://i.imgur.com/mOlBK6w.png)
+<p align="center">
+  <img src="https://i.imgur.com/mOlBK6w.png">
+</p>
 
 ### Details
 
